@@ -1,0 +1,13 @@
+.div-prime {
+    text-align: center;
+    background-color: orange;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+img {
+    height: 400px;
+    width: 600px;
+    border: 10px solid white;
+    border-radius: 1500px;
+}
